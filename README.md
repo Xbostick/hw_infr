@@ -1,5 +1,3 @@
-# 
-hw_infr---
 jupyter:
   kernelspec:
     display_name: Python 3
